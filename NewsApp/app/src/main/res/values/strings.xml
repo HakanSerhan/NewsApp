@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="NEWS">NEWS</string>
+    <string name="five">5 saat önce</string>
+    <string name="source">Kaynak</string>
+    <string name="Title">Başlık</string>
+    <string name="Search">Search</string>
+
+</resources>
